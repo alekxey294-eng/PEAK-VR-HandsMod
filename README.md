@@ -16,7 +16,7 @@ Welcome to the global network and physics expansion for the original **PEAK VR**
 
 ## 🤝 Credits & Disclaimer
 
-**Huge thanks and maximum respect to the original VR mod author on GitHub!** Thank you for building the amazing base that made it possible to run the game in virtual reality and brought the controllers to life on a local PC.
+**Huge thanks and maximum respect to the original VR mod author on GitHub!(https://github.com/AstienVR)** Thank you for building the amazing base that made it possible to run the game in virtual reality and brought the controllers to life on a local PC.
 
 > 💡 **Why this addon was created:**
 > The original creator deliberately chose not to add multiplayer or free finger tracking over the network to prevent toxic behavior from younger players. I completely respect his position and rules, but as a developer, I couldn't ignore the massive potential of cooperative climbing. This addon was created solely for **honest teamwork, scaling peaks with friends, and hardcore physics climbing**. Please use this mod respectfully!
