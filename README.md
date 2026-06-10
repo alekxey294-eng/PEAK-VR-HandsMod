@@ -120,7 +120,7 @@ If you are stuck, cannot find the right line in the Notepad, or don't understand
 ### 📧 BE A BETA TESTER!
 My PC is too weak for full scale testing, so I need your help! 
 Please test this mod with your friends and send your feedback or bug reports to my email:
-👉 [ВСТАВЬ_СЮДА_СВОЮ_ПОЧТУ] 👈
+👉 [alekxey294@gmail.com] 👈
 Thank you for helping me make this mod better! 🙏
----
+
 Created with love for VR technologies and hardcore climbing. See you at the summit! 🚀
