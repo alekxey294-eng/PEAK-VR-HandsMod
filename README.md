@@ -117,10 +117,16 @@ If you are stuck, cannot find the right line in the Notepad, or don't understand
 *(The video is uploaded via a private link and is accessible only to GitHub users!).*
 
 ---
+
 ### 📧 BE A BETA TESTER!
+
 My PC is too weak for full scale testing, so I need your help! 
+
 Please test this mod with your friends and send your feedback or bug reports to my email:
-👉 [alekxey294@gmail.com] 👈
+👉 alekxey294@gmail.com 👈
+
 Thank you for helping me make this mod better! 🙏
+
+---
 
 Created with love for VR technologies and hardcore climbing. See you at the summit! 🚀
